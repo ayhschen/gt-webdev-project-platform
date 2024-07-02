@@ -1,7 +1,3 @@
-# gt-webdev-project-platform
-
-Platform to empower GT WebDev members to showcase their projects, foster collaboration among members, and highlight the club's achievements.
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
